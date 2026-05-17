@@ -131,7 +131,10 @@ Planned future additions include:
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1440" height="900" alt="Screenshot 2026-05-17 at 12 07 09 AM" src="https://github.com/user-attachments/assets/1aad380f-be88-40db-8b99-0a9f3378072e" />
+<img width="1440" height="900" alt="Screenshot 2026-05-17 at 12 07 16 AM" src="https://github.com/user-attachments/assets/5cd5dab6-f84d-4f69-afee-a41c51a6bc37" />
+<img width="1440" height="900" alt="Screenshot 2026-05-17 at 12 07 23 AM" src="https://github.com/user-attachments/assets/1d6a9ef9-5466-4611-8cd0-68c80b392f58" />
+
 
 ---
 
