@@ -12,7 +12,7 @@ Using Tableau, I developed interactive dashboards to examine performance from mu
 Rather than focusing exclusively on traditional batting statistics, this project aims to understand the underlying patterns behind his offensive production and identify questions that warrant further investigation.
 
 ---
-**Research Questions**
+## Research Questions
 
 This project explores five main questions:
 
@@ -22,14 +22,14 @@ This project explores five main questions:
 4. How are his batted balls distributed across pull, center, and opposite fields?
 5. What potential strengths, weaknesses, and areas for further investigation emerge from these patterns?
 
-**Tools and Technologies**
+## Tools and Technologies
 
 Tableau: Interactive dashboards, data visualization, calculated fields, and exploratory analysis.
 CSV / Excel: Data organization and preparation.
 GitHub: Project documentation, versioned project files, and portfolio presentation.
 
 ---
-**Dashboard Structure**
+## Dashboard Structure
 **1. HR Profile**
 
 Examines home-run production through:
@@ -64,7 +64,7 @@ Pitch-type comparisons
 The objective is to investigate how pitch characteristics relate to contact quality, while recognizing that pitch velocity alone cannot explain a batting outcome.
 
 ---
-**Preliminary Findings**
+## Preliminary Findings
 
 The following observations are based on the available dataset used for this project. They should be interpreted as descriptive findings rather than definitive evaluations of Murakami's overall MLB performance.
 
@@ -111,7 +111,7 @@ This is a potentially important area for further analysis. However, the current 
 Pitch-level data would be required to distinguish these explanations.
 
 ---
-**Potential Implications for Batting Approach**
+## Potential Implications for Batting Approach
 
 The current findings suggest several questions worth investigating rather than immediate conclusions about what Murakami should change.
 
@@ -122,7 +122,7 @@ Study launch-angle outcomes: Launch angle should be analyzed jointly with exit v
 Separate descriptive patterns from causal explanations: The current dashboard identifies relationships and distributions, but does not establish why a particular outcome occurred.
 
 ---
-**Methodology and Definitions**
+## Methodology and Definitions
 The analysis uses plate-appearance records and associated batted-ball and pitch information. Tableau calculated fields and filters are used to summarize and visualize the available data.
 
 Key metrics include:
@@ -135,7 +135,7 @@ Home-Run Rate: Home-run outcomes divided by the number of plate appearances with
 Pitch-Type Home Runs: Number of home-run outcomes associated with each recorded pitch type.
 
 ---
-**Barrel Classification**
+## Barrel Classification
 
 The current Tableau workbook uses the following operational rule:
 
@@ -145,7 +145,7 @@ Launch angle between 20° and 35°, inclusive
 This is a simplified project-specific classification. It should not be interpreted as an exact reproduction of MLB's official Statcast Barrel definition.
 
 ---
-**Limitations**
+## Limitations
 
 Several limitations should be considered when interpreting the results:
 
@@ -157,7 +157,7 @@ Descriptive analysis: The observed patterns do not establish causation or prove 
 Comparison benchmarks: Without a consistent league-wide comparison dataset, the project cannot establish a definitive percentile or ranking for every metric.
 
 ---
-**Future Improvements**
+## Future Improvements
 
 Potential extensions include:
 
@@ -170,7 +170,7 @@ Expanding the analysis with Python or SQL and documenting the workflow.
 Updating the dashboard as additional season data becomes available.
 
 ---
-**What I learned**
+## What I learned
 
 This project gave me practical experience with Tableau, data preparation, calculated fields, dashboard design, and analytical communication.
 
@@ -179,7 +179,7 @@ It also reinforced the importance of distinguishing what a dataset directly show
 Through this project, I aim to continue developing the technical and analytical skills needed to transform raw data into useful, evidence-based insights.
 
 ---
-**Data and Attribution**
+## Data and Attribution
 
 The analysis is based on the data files used to build this project. Data provenance, source links, update dates, and any applicable usage restrictions should be documented here.
 
