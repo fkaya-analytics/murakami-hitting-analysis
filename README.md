@@ -32,6 +32,9 @@ GitHub: Project documentation, versioned project files, and portfolio presentati
 ## Dashboard Structure
 **1. HR Profile**
 
+<img width="1225" height="807" alt="Screenshot 2026-10-08 at 9 22 31 PM" src="https://github.com/user-attachments/assets/363f8956-835d-40c2-82ac-470bc58e4d77" />
+
+
 Examines home-run production through:
 
 Home-run trends over time
@@ -41,6 +44,9 @@ Home-run rate by pitch type
 This dashboard helps distinguish the frequency of home runs from the rate at which they occur against different pitch types.
 
 **2. Contact Quality**
+
+<img width="1251" height="808" alt="Screenshot 2026-10-08 at 9 23 12 PM" src="https://github.com/user-attachments/assets/820aea22-536d-4302-8482-03a9fd9ed0da" />
+
 
 Examines the quality and distribution of batted balls through:
 
@@ -54,6 +60,9 @@ Hard Hit % by Pitch Type
 These visualizations help explore how frequently Murakami makes hard contact, how his batted balls are launched, and how contact characteristics vary across pitch types.
 
 **3. Pitch Matchup**
+
+<img width="1245" height="805" alt="Screenshot 2026-10-08 at 9 23 46 PM" src="https://github.com/user-attachments/assets/0d0452f0-7a98-491f-85f1-36c4f0a36659" />
+
 
 Examines the relationship between pitch characteristics and batting outcomes through:
 
