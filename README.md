@@ -1,6 +1,7 @@
 # Munetaka Murakami: MLB Batting Analytics (2026)
 
-An independent sports analytics project using Tableau to explore Munetaka Murakami's batting performance with the Chicago White Sox.
+An independent sports analytics project using Tableau to explore Munetaka Murakami's batting performance with the Chicago White Sox. This analysis covered the period from March 26 to September 27, 2026. Because Murakami was sidelined by an injury and missed games during the season, the analysis for the period from May 30 to July 9 was restricted to Chicago White Sox games.
+
 
 ---
 
