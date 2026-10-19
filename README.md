@@ -198,7 +198,24 @@ Through this project, I aim to continue developing the technical and analytical 
 ---
 ## Data and Attribution
 
-The analysis is based on the data files used to build this project. Data provenance, source links, update dates, and any applicable usage restrictions should be documented here.
+This project combines publicly available baseball data and game-weather information to explore Munetaka Murakami's batting performance during the 2026 MLB season.
+
+1. Baseball Savant — MLB Statcast
+
+Source: [https://baseballsavant.mlb.com/gamefeed
+](https://baseballsavant.mlb.com/)
+
+Baseball Savant was used to collect batting and pitch-related information, including exit velocity, launch angle, pitch velocity, pitch type, and plate-appearance outcomes, where available.
+
+These metrics were used to build visualizations of batted-ball quality, home-run production, and performance by pitch type.
+
+2. RotoWire — MLB Game Weather
+
+Source: https://www.rotowire.com/baseball/weather.php
+
+RotoWire was used as a source for game-weather information, including temperature and wind conditions, where available in the dataset.
+
+These variables were included to explore whether environmental conditions might be relevant when examining game-level batting outcomes.
 
 This is an independent educational and portfolio project. It is not affiliated with or endorsed by Major League Baseball or the Chicago White Sox.
 
