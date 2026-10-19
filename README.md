@@ -140,10 +140,15 @@ The analysis uses plate-appearance records and associated batted-ball and pitch 
 Key metrics include:
 
 Home Runs: Count of records classified as Home Run.
+
 Average Exit Velocity: Average exit velocity among records with exit velocity greater than zero.
+
 Maximum Exit Velocity: Maximum recorded exit velocity.
+
 Hard-Hit Rate: Percentage of records with a positive exit-velocity measurement that are flagged as hard-hit in the dataset.
+
 Home-Run Rate: Home-run outcomes divided by the number of plate appearances with recorded outcomes.
+
 Pitch-Type Home Runs: Number of home-run outcomes associated with each recorded pitch type.
 
 ---
