@@ -35,7 +35,7 @@ GitHub: Project documentation, versioned project files, and portfolio presentati
 
 ---
 
-## Dashboard Structure**
+## Dashboard Structure
 **1. HR Profile**
 
 <img width="1225" height="807" alt="Screenshot 2026-10-08 at 9 22 31 PM" src="https://github.com/user-attachments/assets/363f8956-835d-40c2-82ac-470bc58e4d77" />
