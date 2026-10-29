@@ -32,8 +32,8 @@ CSV / Excel: Data organization and preparation.
 GitHub: Project documentation, versioned project files, and portfolio presentation.
 
 ---
-## Dashboard Structure
-Interactive Tableau Dashboard
+## Dashboard Structure**
+**Interactive Tableau Dashboard
 Explore the interactive dashboards here: https://public.tableau.com/views/M_Murakami_2026_PitchMatchup/ContactQuality?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **1. HR Profile**
