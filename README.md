@@ -6,6 +6,8 @@ This analysis covered the period from March 26 to September 27, 2026. Because Mu
 
 
 ---
+## Interactive Tableau Dashboard
+Explore the interactive dashboards here: https://public.tableau.com/views/M_Murakami_2026_PitchMatchup/ContactQuality?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
 This project analyzes Munetaka Murakami's 2026 MLB batting data to explore his offensive performance, batted-ball quality, home-run production, and interactions with different pitch types.
@@ -32,10 +34,8 @@ CSV / Excel: Data organization and preparation.
 GitHub: Project documentation, versioned project files, and portfolio presentation.
 
 ---
-## Dashboard Structure**
-**Interactive Tableau Dashboard
-Explore the interactive dashboards here: https://public.tableau.com/views/M_Murakami_2026_PitchMatchup/ContactQuality?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Dashboard Structure**
 **1. HR Profile**
 
 <img width="1225" height="807" alt="Screenshot 2026-10-08 at 9 22 31 PM" src="https://github.com/user-attachments/assets/363f8956-835d-40c2-82ac-470bc58e4d77" />
